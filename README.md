@@ -1,7 +1,7 @@
 # Closed-Form Solution to the Multichannel Wiener Filter with Interaural Level Difference Preservation
 Audio repository for the results of the paper "Closed-Form Solution to the Multichannel Wiener Filter with Interaural Level Difference Preservation"
 
-- 1) Interfering in -90°
+## 1) Interfering in -90°
 ### 1.1) Noisy component (y)
 
 #### 1.1.1) Unprocessed:
